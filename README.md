@@ -38,8 +38,8 @@ I conducted five iterations with the test data, submitting the results to Kaggle
 
 ## Repository Contents
 
-    - README.md - Project description and details.
-    - explore_training_data.ipynb - Notebook for data exploration and visualization.
-    - prepare_and_predict.ipynb - Notebook for data preparation, model training, and prediction.
-    - train.csv - Training dataset from Kaggle.
-    - test.csv - Test dataset from Kaggle.
+- README.md - Project description and details.
+- explore_training_data.ipynb - Notebook for data exploration and visualization.
+- prepare_and_predict.ipynb - Notebook for data preparation, model training, and prediction.
+- train.csv - Training dataset from Kaggle.
+- test.csv - Test dataset from Kaggle.
