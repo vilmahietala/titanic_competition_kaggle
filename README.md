@@ -1,6 +1,5 @@
 
 
-![Picture of ocean](https://github.com/vilmahietala/images/blob/master/ocean.png?raw=true)
 
 
 
